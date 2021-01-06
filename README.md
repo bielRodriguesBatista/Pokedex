@@ -1,6 +1,6 @@
 # Pokedex
 
-## My first project consuming a API
+##  The project consists of consuming the pokeAPI API to display 150 pokemons on cards.
 
 API: https://pokeapi.co/api/v2/pokemon
 
